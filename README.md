@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -28,7 +28,8 @@
 
 ```text
 💬 Programming Languages: 
-sh                       3 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+sh                       7 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   98.21% 
+Go                       8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.79%
 
 ```
 
@@ -45,5 +46,5 @@ Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 09/10/2022 18:51:36 UTC
+ Last Updated on 10/10/2022 19:03:38 UTC
 <!--END_SECTION:waka-->
